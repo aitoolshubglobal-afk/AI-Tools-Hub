@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://aitoolshub.global/</loc></url>
+<url><loc>https://aitoolshub.global/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://aitoolshub.global/tools</loc></url>
 <url><loc>https://aitoolshub.global/compare</loc></url>
+<url><loc>https://aitoolshub.global/guides</loc></url>
+<url><loc>https://aitoolshub.global/guides/how-to-choose-ai-tools</loc></url>
+<url><loc>https://aitoolshub.global/guides/youtube-ai-workflow</loc></url>
+<url><loc>https://aitoolshub.global/guides/repurpose-video-with-ai</loc></url>
+<url><loc>https://aitoolshub.global/guides/affiliate-ai-tools-site</loc></url>
+
 <url><loc>https://aitoolshub.global/category/create</loc></url>
+<url><loc>https://aitoolshub.global/tools/descript</loc></url>
+<url><loc>https://aitoolshub.global/tools/ki-komplett-system</loc></url>
+<url><loc>https://aitoolshub.global/tools/ai-influencer-system</loc></url>
+<url><loc>https://aitoolshub.global/tools/tubemagic</loc></url>
 <url><loc>https://aitoolshub.global/category/write</loc></url>
 <url><loc>https://aitoolshub.global/category/research</loc></url>
 <url><loc>https://aitoolshub.global/methodology</loc></url>
